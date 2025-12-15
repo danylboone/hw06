@@ -1,0 +1,1 @@
+This repository contains my HW06 tasks, including central.py and potential.py.
